@@ -1,6 +1,6 @@
 # Risk Report -Agriculture in Ghana
 
-This respository contains a detailed risk analysis created for agricultural business operating in Ghana. It focuses on identifying the most relevant challenges in the sector environment, financial, regulatory, and more provides practical ways to manage them. 
+This repository contains a detailed risk analysis created for agricultural business operating in Ghana. It focuses on identifying the most relevant challenges in the sector environment, financial, regulatory, and more provides practical ways to manage them. 
 
 # About 
 Agriculture remains central to Ghana's economy, but farmers and agribusiness alike face growing uncertainty. Whether its unpredicatable weather, shifts in mark prices, or supply chain roadblocks, this report is designed to help decision-makers navigate real-world risks with clarity.
