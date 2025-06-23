@@ -14,6 +14,6 @@ Agriculture remains central to Ghana's economy, but farmers and agribusiness ali
 Agricutural sucess is not just about planting and harvesting, it is about planning.  With the right insight into external and operational risks, companies can stay ahead of challenges before they become problems.
 Whether running a cocoa farm, managing a co-op, or investing in agritech, this report offers a grouded starting point. 
 
-## Contibute or Connect 
+## Contribute or Connect 
 Interested in improving or translating the report, Open an issue  or start a pull request. Collaboration is welcome.
 If working in agriculture or development and want to build something similar, feel free to reach out.
